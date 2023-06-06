@@ -1,1 +1,0 @@
-custom build of sxiv
